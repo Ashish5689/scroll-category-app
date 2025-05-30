@@ -1,5 +1,5 @@
 # Scroll Category App
-
+# [Live Link 🚀](https://scroll-category-app.netlify.app/)
 ## Overview
 Scroll Category App is a modern React application that provides a smooth, category-based navigation experience. The app features a sticky category bar at the top that allows users to quickly navigate between different category sections. As users scroll through the content, the active category in the navigation bar updates automatically to reflect their current position on the page.
 
